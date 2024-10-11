@@ -1,0 +1,16 @@
+.distance-table {
+  h2 {
+    margin: 0;
+  }
+  table {
+    border: 1px solid black;
+    font-weight: 700;
+    padding: 1em;
+    td {
+      text-align: left;
+      &.club-link {
+        cursor: pointer;
+      }
+    }
+  }
+}

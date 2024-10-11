@@ -1,0 +1,9 @@
+.stadium-popup strong {
+  font-size: 1.2em;
+  line-height: 2;
+}
+
+.stadium-popup .leaflet-popup-content-wrapper,
+.stadium-popup .leaflet-popup-tip {
+  background: #faa;
+}
